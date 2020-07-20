@@ -38,7 +38,10 @@ You can also schedule this to run on daily basis using crontab. Add the followin
 > 0 2 * * * cd /etc/mydumpadmin && ./mysql-dump.sh
 
 
-### Visit here
+### Source
+
+https://crontab.guru/every-5-minutes
+
 https://tecadmin.net/bash-script-mysql-database-backup/
 
 https://tecadmin.net/advance-bash-script-for-mysql-database-backup/
