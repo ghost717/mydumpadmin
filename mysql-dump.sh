@@ -11,7 +11,7 @@
 ####################################################################################
 ####################################################################################
 
-CONFIGFILE=/etc/mydumpadmin/settings.conf
+CONFIGFILE=/var/www/backup/settings.conf
 
 source $CONFIGFILE
 DATE_FORMAT='%Y%m%d'
