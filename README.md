@@ -1,3 +1,5 @@
+# SQL-Backup
+
 ## Advance MySQL Database Backup Script
 
 In this repository, you will get an advance MySQL database backup script with mutiple options. This script allows you to backup databases on local and upload to FTP, SFTP and S3 bucket. 
@@ -40,8 +42,8 @@ You can also schedule this to run on daily basis using crontab. Add the followin
 
 ### Source
 
-https://crontab.guru/every-5-minutes
+- [Crontab](https://crontab.guru/every-5-minutes)
 
-https://tecadmin.net/bash-script-mysql-database-backup/
+- [Source1](https://tecadmin.net/bash-script-mysql-database-backup/)
 
-https://tecadmin.net/advance-bash-script-for-mysql-database-backup/
+- [Source2](https://tecadmin.net/advance-bash-script-for-mysql-database-backup/)
